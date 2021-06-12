@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		
-		Product product1 = new Product(1, "Lenovo 14", 15000, "16 GB RAM", 10); //Referans oluţturma, intance
+		Product product1= new Product(1, "Lenovo 14", 15000, "16 GB RAM", 10); //Referans oluţturma, intance
 		
 		Product product2 = new Product(); 
 		product2.setId(2);
